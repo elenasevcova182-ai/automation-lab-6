@@ -25,9 +25,9 @@
 Структура репозитория
 
 automation-lab-6/
-├── README.md # Описание проекта
-├── requirements.txt # Зависимости Python-проекта
-├── .gitignore # Исключаемые файлы и каталоги
+├── README.md (Описание проекта)
+├── requirements.txt (Зависимости Python-проекта)
+├── .gitignore  (Исключаемые файлы и каталоги)
 └── .github/
 └── workflows/
-└── main.yml # CI/CD workflow GitHub Actions
+└── main.yml (CI/CD workflow GitHub Actions)
