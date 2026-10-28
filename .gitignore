@@ -1,0 +1,45 @@
+.gitignore — исключение временных файлов
+
+Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+venv/
+env/
+.venv/
+*.egg
+
+Тестирование и покрытие
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+Среда разработки
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+Секреты и переменные окружения
+.env
+.env.local
+*.secret
+
+Логи
+*.log
+
+Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+Ansible
+*.retry
