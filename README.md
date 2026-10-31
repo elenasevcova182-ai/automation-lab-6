@@ -31,3 +31,7 @@ automation-lab-6/
 └── .github/
 └── workflows/
 └── main.yml (CI/CD workflow GitHub Actions)
+
+Автор:
+Шевцова Елена Алексеевна
+Группа СИд-023
